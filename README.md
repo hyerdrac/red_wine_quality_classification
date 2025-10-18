@@ -1,4 +1,4 @@
-# Wine Quality Prediction Projesi
+# Wine Quality Classification Projesi
 
 Bu projede, şarap kalitesini tahmin etmek amacıyla bir veri seti üzerinde çalışılmıştır. Veri seti, şarapların kimyasal özelliklerini içerir ve bu özellikler kullanılarak modeller eğitilmiştir.
 
